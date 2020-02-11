@@ -1,4 +1,4 @@
 # Kings Of Dungeon
-![](https://imgur.com/LTKL6bX)
+![](https://i.imgur.com/LTKL6bX.jpg)
 # Description
 
