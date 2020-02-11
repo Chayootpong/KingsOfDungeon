@@ -18,5 +18,5 @@ The special features of the Kings of Dungeon game are PC games which have one bi
 - POLYGON 3D Models (Asset Store)
 # Video
 [![](https://i.imgur.com/yKTeuiU.jpg)](https://www.youtube.com/watch?v=rwUhPrFVA74)
-**[CLICK PICTURE ABOVE]**
+**[CLICK PICTURE TO WATCH VIDEO]**
 # Screenshots
