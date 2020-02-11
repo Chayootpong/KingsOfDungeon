@@ -11,7 +11,7 @@ The special features of the Kings of Dungeon game are PC games which have one bi
 ![](https://i.imgur.com/6YumNGc.png)
 ![](https://i.imgur.com/HlZLhbX.png)
 # Reward
-- Honorable Mention National Software Contest 2019 (NSC 2019), Entertainment type.
+- Honorable Mention in National Software Contest 2019 (NSC 2019), Entertainment type.
 # Development Tools
 - Unity Engine (Windows & Android Platform)
 - Visual Studio (CSharp)
