@@ -1,4 +1,4 @@
 # Kings Of Dungeon
-![](Cover/Poster.jpg)
+![](https://imgur.com/LTKL6bX)
 # Description
 
