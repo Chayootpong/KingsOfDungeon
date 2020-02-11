@@ -17,6 +17,6 @@ The special features of the Kings of Dungeon game are PC games which have one bi
 - Visual Studio (CSharp)
 - POLYGON 3D Models (Asset Store)
 # Video
-[![](https://i.imgur.com/yKTeuiU.jpg)](https://www.youtube.com/watch?v=rwUhPrFVA74)
+[![](https://i.imgur.com/Wjd5OyQ.jpg)](https://www.youtube.com/watch?v=rwUhPrFVA74)
 **[CLICK PICTURE TO WATCH VIDEO]**
 # Screenshots
