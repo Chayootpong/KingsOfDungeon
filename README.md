@@ -17,7 +17,7 @@ The special features of the Kings of Dungeon game are PC games which have one bi
 ![](https://i.imgur.com/JAIo5GS.jpg)
 ![](https://i.imgur.com/gT2VlfO.jpg)
 ![](https://i.imgur.com/VzpJjEH.jpg)
-![](https://i.imgur.com/EmRMGnz.png)
+![](https://i.imgur.com/Z16bmvT.png)
 ![](https://i.imgur.com/BCCxyNL.png)
 ![](https://i.imgur.com/hAfXPly.jpg)
 # Rewards
