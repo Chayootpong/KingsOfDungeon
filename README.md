@@ -7,7 +7,7 @@ Players will receive the characters that the players have chosen. In which the p
 
 The special features of the Kings of Dungeon game are PC games which have one big screen as a display page. While playing, all players will look on the same screen. All players will be able to control their own characters via mobile phones as used mobile phones as controllers for controlling the characters in PC games causes the playing style more exotic. For example, using a mobile phone makes the button design to be used in the control on the screen independently. In addition, mobile phones also have various sensors that can measure the rotation or movement of mobile phones which has been used to enforce the characters in the game. In addition, while the player can play games enjoy the big screen. The game system can also display information for each player to see differently. According to the character's role, via the mobile phone screen as well.
 
-<style align = "center">![](https://i.imgur.com/wVOpclZ.png)</style>
+![](https://i.imgur.com/wVOpclZ.png)
 ![](https://i.imgur.com/6YumNGc.png)
 ![](https://i.imgur.com/HlZLhbX.png)
 # Reward
