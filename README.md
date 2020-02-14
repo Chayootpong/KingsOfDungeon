@@ -18,7 +18,7 @@ The special features of the Kings of Dungeon game are PC games which have one bi
 - POLYGON 3D Models (Asset Store)
 # Setup
 1. Mobile Controller <a href="https://1drv.ms/u/s!Ai9z8mPSceQOkQO_OnbjBmGQkO7H?e=fIOwFv">[**DOWNLOAD APK FILE**]</a> 
-2. Game File <a href="">[**DOWNLOAD ZIP FILE**]</a>
+2. Game File <a href="https://1drv.ms/u/s!Ai9z8mPSceQOkQTthHkqIWzQLqIS?e=CgC4m4">[**DOWNLOAD ZIP FILE**]</a>
 # Team Member(s)
 - Chayootpong Promlee
 # Video
