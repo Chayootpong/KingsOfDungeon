@@ -19,7 +19,7 @@ The special features of the Kings of Dungeon game are PC games which have one bi
 # Setup
 1. APK File (For Mobile) <a href="https://1drv.ms/u/s!Ai9z8mPSceQOkQO_OnbjBmGQkO7H?e=fIOwFv">[**DOWNLOAD**]</a> 
 2. <a href=""></a>
-# Team
+# Team Member(s)
 1. Chayootpong Promlee
 # Video
 [![](https://i.imgur.com/Wjd5OyQ.jpg)](https://www.youtube.com/watch?v=rwUhPrFVA74)
