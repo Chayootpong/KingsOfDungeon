@@ -17,7 +17,7 @@ The special features of the Kings of Dungeon game are PC games which have one bi
 - Visual Studio (CSharp)
 - POLYGON 3D Models (Asset Store)
 # Setup
-1. APK File (For Mobile) <a href="https://1drv.ms/u/s!Ai9z8mPSceQOkQO_OnbjBmGQkO7H?e=fIOwFv"></a> 
+1. APK File (For Mobile) <a href="https://1drv.ms/u/s!Ai9z8mPSceQOkQO_OnbjBmGQkO7H?e=fIOwFv">[**DOWNLOAD**]</a> 
 2. <a href=""></a>
 # Team
 1. Chayootpong Promlee
