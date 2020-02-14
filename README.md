@@ -34,6 +34,6 @@ Extract .ZIP file and run .EXE in PC and install .APK file on smartphone.
 1. Mobile Controller <a href="https://1drv.ms/u/s!Ai9z8mPSceQOkQO_OnbjBmGQkO7H?e=fIOwFv">[**DOWNLOAD APK FILE**]</a> 
 2. Game File <a href="https://1drv.ms/u/s!Ai9z8mPSceQOkQTthHkqIWzQLqIS?e=CgC4m4">[**DOWNLOAD ZIP FILE**]</a>
 
-*Note: This game has to play in the same network (LAN) only.
+*Note: This game has to play in the same network (LAN) only.*
 # Team Member(s)
 - Chayootpong Promlee
