@@ -10,8 +10,6 @@ The special features of the Kings of Dungeon game are PC games which have one bi
 ![](https://i.imgur.com/wVOpclZ.png)
 ![](https://i.imgur.com/6YumNGc.png)
 ![](https://i.imgur.com/HlZLhbX.png)
-# Video
-[![](https://i.imgur.com/Wjd5OyQ.jpg)](https://www.youtube.com/watch?v=rwUhPrFVA74)
 # Screenshots
 ![](https://i.imgur.com/7nf6OSe.jpg)
 ![](https://i.imgur.com/JAIo5GS.jpg)
@@ -20,6 +18,8 @@ The special features of the Kings of Dungeon game are PC games which have one bi
 ![](https://i.imgur.com/Z16bmvT.png)
 ![](https://i.imgur.com/BCCxyNL.png)
 ![](https://i.imgur.com/hAfXPly.jpg)
+# Video
+[![](https://i.imgur.com/Wjd5OyQ.jpg)](https://www.youtube.com/watch?v=rwUhPrFVA74)
 # Rewards
 - Honorable Mention in National Software Contest (NSC 2019), Entertainment type.
 - Qualified and join SCB Foundation (Torkla) Year 7.
