@@ -10,8 +10,20 @@ The special features of the Kings of Dungeon game are PC games which have one bi
 ![](https://i.imgur.com/wVOpclZ.png)
 ![](https://i.imgur.com/6YumNGc.png)
 ![](https://i.imgur.com/HlZLhbX.png)
+# Video
+[![](https://i.imgur.com/Wjd5OyQ.jpg)](https://www.youtube.com/watch?v=rwUhPrFVA74)
+**[CLICK TO WATCH VIDEO]**
+# Screenshots
+![](https://i.imgur.com/7nf6OSe.jpg)
+![](https://i.imgur.com/JAIo5GS.jpg)
+![](https://i.imgur.com/gT2VlfO.jpg)
+![](https://i.imgur.com/VzpJjEH.jpg)
+![](https://i.imgur.com/EmRMGnz.png)
+![](https://i.imgur.com/BCCxyNL.png)
+![](https://i.imgur.com/hAfXPly.jpg)
 # Reward
 - Honorable Mention in National Software Contest 2019 (NSC 2019), Entertainment type.
+- Qualify and join SCB Foundation (Torkla) Year 7.
 # Development Tools
 - Unity Engine (Windows & Android Platform)
 - Visual Studio (CSharp)
@@ -25,14 +37,3 @@ Extract .ZIP file and run .EXE in PC and install .APK file on Smartphone.
 Note: This game has to play in the same network (LAN) only.
 # Team Member(s)
 - Chayootpong Promlee
-# Video
-[![](https://i.imgur.com/Wjd5OyQ.jpg)](https://www.youtube.com/watch?v=rwUhPrFVA74)
-**[CLICK TO WATCH VIDEO]**
-# Screenshots
-![](https://i.imgur.com/7nf6OSe.jpg)
-![](https://i.imgur.com/JAIo5GS.jpg)
-![](https://i.imgur.com/gT2VlfO.jpg)
-![](https://i.imgur.com/VzpJjEH.jpg)
-![](https://i.imgur.com/EmRMGnz.png)
-![](https://i.imgur.com/BCCxyNL.png)
-![](https://i.imgur.com/hAfXPly.jpg)
